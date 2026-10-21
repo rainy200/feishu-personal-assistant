@@ -316,9 +316,8 @@ macOS / Linux 将解释器路径替换为 `.venv/bin/python`。完整版本与�
 
 <a id="credits"></a>
 
-## 🙌 致谢与许可
+## 🙌 许可
 
-感谢 [wangziyingly](https://github.com/wangziyingly) 开源原项目。本版本沿用其文献、求职、待办等核心能力，在已有会话存储基础上扩展历史查询，并完善配置校验、交互说明和回归测试。
 
 本次具体变更见 [交付说明](docs/DELIVERY.md)，设计背景见 [技术文档](docs/TECH_DESIGN.md)。
 
