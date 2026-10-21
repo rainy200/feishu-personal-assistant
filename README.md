@@ -23,7 +23,7 @@
 
 你可以把论文 PDF 发给它，围绕研究方向继续追问；也可以粘贴一份 JD，准备简历和模拟面试。聊过的内容保存在本机，需要回顾时，直接在飞书中查看或搜索。
 
-本项目基于 [wangziyingly/feishu-personal-assistant](https://github.com/wangziyingly/feishu-personal-assistant) 进行增量开发。本版本重点完善**历史查询、配置安全和交互反馈**，保留原有功能与 MIT 署名。
+
 
 <a id="features"></a>
 
