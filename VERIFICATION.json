@@ -1,0 +1,13 @@
+{
+  "archive_path": "D:\\CODEX\\2026-10-21\\referenced-chatgpt-conversation-this-is-an\\outputs\\feishu-personal-assistant-rainy200-patched.zip",
+  "bytes": 111115,
+  "files": 29,
+  "sha256": "1b903a04fe1d411d526d2b3187e0571fe8d63ef860664226ebd0fa16ff5357d1",
+  "zip_crc": "PASS",
+  "byte_comparison": "PASS",
+  "python_parse": "PASS",
+  "license_preserved": true,
+  "credential_pattern_scan": "PASS",
+  "gitignore_checks": "PASS",
+  "packaging": "source allowlist; no runtime data/config/cache"
+}
